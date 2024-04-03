@@ -1,0 +1,33 @@
+{
+    "162eab24-fd5e-f1b6-9fac-520690dc7f42": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Jumper_Man_Thumb.tex.nasset"
+    },
+    "2b3cd0b9-355f-fa4f-f233-4aa7d6b76d18": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "70fb20ad-6fa9-e45f-60cf-ab50f73ee4a6": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "a046b097-6f76-47cc-b141-be3c233f6aa6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Jumper Man.scene.nasset"
+    },
+    "b828e72b-bead-4f01-b89f-6679d716c28c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Jumper Man",
+        "thumbnail": "162eab24-fd5e-f1b6-9fac-520690dc7f42",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "70fb20ad-6fa9-e45f-60cf-ab50f73ee4a6"
+}
